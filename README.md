@@ -1,2 +1,2 @@
-# x-sani
-X-Sani Newsletter Page
+# laut.bln
+laut.bln Newsletter Page
